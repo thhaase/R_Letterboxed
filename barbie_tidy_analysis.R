@@ -6,7 +6,7 @@ library(widyr)
 library(ggraph)
 library(igraph)
 
-df <- read_csv("./barbie1.csv")
+df <- read_csv("./barbie_all.csv")
 
 
 # first look
